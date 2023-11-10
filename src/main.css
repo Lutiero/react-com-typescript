@@ -17,6 +17,8 @@ html {
 
 body {
     margin: 1.5rem;
+    background-color: #282828;
+    color: white;
 }
 
 body,
